@@ -1,0 +1,70 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="2477869293" file="D:\Adventure Island\Study\Extras\GitHub\Path-Planning_2D-Map\app\searchAlgorithm.prj" location="D:\Adventure Island\Study\Extras\GitHub\Path-Planning_2D-Map\app" name="searchAlgorithm" target="target.mlapps" target-name="Package App">
+    <param.appname>searchAlgorithm</param.appname>
+    <param.authnamewatermark>Ashwin Goyal</param.authnamewatermark>
+    <param.email>ashgo95@terpmail.umd.edu</param.email>
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary>It is a path planner which can plan path using BFS, DFS, Dijkstra, A*, and Weighted A*.</param.summary>
+    <param.description />
+    <param.screenshot>C:\Users\aashg\AppData\Local\Temp\tpd2639a1f_368a_4ecc_a50c_4e8722b724b6.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>D:\Adventure Island\Study\Extras\GitHub\Path-Planning_2D-Map\app</param.output>
+    <param.guid>f3999634-508a-4b0e-bf59-f5419559cdfe</param.guid>
+    <unset>
+      <param.authnamewatermark />
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.description />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\searchAlgorithm.mlapp</file>
+    </fileset.main>
+    <fileset.depfun />
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="D:\Adventure Island\Study\Extras\GitHub\Path-Planning_2D-Map" name="app" optional="false">D:\Adventure Island\Study\Extras\GitHub\Path-Planning_2D-Map\app</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>D:\Adventure Island\Softwares\MATLAB\R2018b</root>
+      <toolboxes>
+        <toolbox name="neuralnetwork" />
+      </toolboxes>
+      <toolbox>
+        <neuralnetwork>
+          <enabled>true</enabled>
+        </neuralnetwork>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
