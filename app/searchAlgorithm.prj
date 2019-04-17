@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="2477869293" file="D:\Adventure Island\Study\Extras\GitHub\Path-Planning_2D-Map\app\searchAlgorithm.prj" location="D:\Adventure Island\Study\Extras\GitHub\Path-Planning_2D-Map\app" name="searchAlgorithm" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="1248553321" file="D:\Adventure Island\Study\Extras\GitHub\Path-Planning_2D-Map\app\searchAlgorithm.prj" location="D:\Adventure Island\Study\Extras\GitHub\Path-Planning_2D-Map\app" name="searchAlgorithm" target="target.mlapps" target-name="Package App">
     <param.appname>searchAlgorithm</param.appname>
     <param.authnamewatermark>Ashwin Goyal</param.authnamewatermark>
     <param.email>ashgo95@terpmail.umd.edu</param.email>
@@ -8,8 +8,8 @@
     <param.icons />
     <param.summary>It is a path planner which can plan path using BFS, DFS, Dijkstra, A*, and Weighted A*.</param.summary>
     <param.description />
-    <param.screenshot>C:\Users\aashg\AppData\Local\Temp\tpd2639a1f_368a_4ecc_a50c_4e8722b724b6.png</param.screenshot>
-    <param.version>1.0</param.version>
+    <param.screenshot />
+    <param.version>1.1</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
@@ -23,7 +23,7 @@
       <param.icon />
       <param.icons />
       <param.description />
-      <param.version />
+      <param.screenshot />
       <param.products.name />
       <param.products.id />
       <param.products.version />
